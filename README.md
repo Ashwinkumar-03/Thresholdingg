@@ -1,3 +1,4 @@
+# Exp-8
 # THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
@@ -29,12 +30,11 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 
 ## Program
-```
-Developed by:Ashwin Kumar S
 
-Register number:212222240013
+### Developed by:Ashwin Kumar S
 
-```
+### Register number:212222240013
+
 
 ```
 # Load the necessary packages
